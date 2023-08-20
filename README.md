@@ -16,7 +16,7 @@ El proyecto "DevLearn Personalizado" aborda una problemática educativa común a
 
 ## Descargar recurso :open_file_folder:
 
-Localiza por encima de esta presentación el nombre del archivo, da clic en él y posteriormente busca el icono de descarga. :shipit:
+Localiza por encima de esta presentación el nombre del archivo, da clic en él y posteriormente busca el icono de descarga en la zona derecha de tu pantalla (Lleva de nombre Download raw file al dejar reposado el cursor en el). :shipit:
 
 ```bash
 # Para el curso: Integración de tecnologías del aprendizaje, el conocimiento y la participación (2804085) SENA
