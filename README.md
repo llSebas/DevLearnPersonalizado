@@ -12,7 +12,7 @@ El proyecto "DevLearn Personalizado" aborda una problemática educativa común a
 - Diseño y desarrollo del contenido
 - Planeacion
 - Prototipo de recurso educativo digital
-- [Recurso educativo digital](#licencia)
+- Recurso educativo digital
 
 ## Descargar recurso :open_file_folder:
 
